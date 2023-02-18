@@ -18,4 +18,4 @@ git clone https://github.com/Yamac-Hacker/TEAM1668
 
 cd TEAM1668
 
-python YAMACx-Enc.py
+python YAMACV2x-Enc.py
